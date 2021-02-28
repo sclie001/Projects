@@ -1,7 +1,7 @@
 Mega Project List
 ========
 
-A list of practical projects that to solve in Python. This was forked by Bash-Woman-Community so that I can practice Python.
+A list of practical projects that to solve in Python. This was forked by [Bash-Woman-Community](https://github.com/Bash-Woman-Community/Projects) so that I can practice Python.
 
 ## Credits
 
